@@ -145,7 +145,7 @@
     "pretty-quick": "1.10.0",
     "replace": "1.1.0",
     "sass": "1.19.0",
-    "shelljs": "0.8.3",
+    "shelljs": "0.8.5",
     "source-map": "0.7.3",
     "stylelint": "9.10.1",
     "stylelint-config-recommended": "2.1.0",
